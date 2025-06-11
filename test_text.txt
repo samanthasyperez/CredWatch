@@ -1,0 +1,5 @@
+## Test demonstrating even documentation or 
+# plaintext files can leak secrets.
+
+Remember to rotate the SECRET = 'sensitive-value-here'
+Don’t forget the password = "testpass"
